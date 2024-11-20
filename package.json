@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "moment": "^2.30.1"
+  },
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "prueba",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "author": "nico",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}

@@ -1,0 +1,15 @@
+[
+    {
+        "id": 2,
+        "title": "Auto Usado Chevrolet",
+        "description": "Auto semi nuevo usado Chevrolet perfectas condiciones.",
+        "code": "CHEV1",
+        "price": 15.000,
+        "stock": 2,
+        "category": "Autos usados",
+        "thumbnails": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP0dY1PdOdxZbY-19pD5Ztcr8DrLv1Oy1eog&s"
+        ],
+        "status": true
+    }
+]
